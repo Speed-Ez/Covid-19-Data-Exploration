@@ -10,7 +10,7 @@ This project is aimed at analyzing and exploring the covid data with SQL using t
 
 ### From the Record, as of 10th April 2023
 
-The total covid-19 cases confirmed was 762,588,872 cases
++ The total covid-19 cases confirmed was 762,588,872 cases
 + The total deaths recorded was 6,895,830
 + The global percentage death was 0.90 percent
 + The USA, China, India, France, Germany has the highest number of confirmed cases While
