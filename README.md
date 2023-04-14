@@ -25,4 +25,4 @@ The total covid-19 cases confirmed was 762,588,872 cases
 + Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
 
 ## Dashboard Report
-Here is a Tableau dashboard report that I built to further to visualize the insights and trends derived from this analysis.
+Here is a Power BI dashboard report that I built to further to visualize the insights and trends derived from this analysis.
