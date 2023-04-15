@@ -23,6 +23,7 @@ This project is aimed at analyzing and exploring the covid data with SQL using t
    - Oceania: 14,180,744
    - Africa: 13,074,139
 + Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
++ Vaccinations started on the 3rd Dec 2020
 
 ## Dashboard Report
 Here is a Power BI dashboard report that I built to further to visualize the insights and trends derived from this analysis.

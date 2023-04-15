@@ -102,6 +102,18 @@ group by location
 order by Total_deaths desc;
 --The USA is also worst hit by covid deaths. They are followed by Brazil, India, Russia, Mexico etc
 
+-- When did vaccinations start (Date)?
+select date, new_vaccinations
+from ['Covid vaccination']
+where new_vaccinations >0
+order by date;
+
+-- Adding locations to it
+select location,date, new_vaccinations
+from ['Covid vaccination']
+where new_vaccinations >0
+order by date
+
 
 
 -- Joining Table
