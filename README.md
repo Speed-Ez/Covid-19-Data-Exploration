@@ -26,4 +26,4 @@ This project is aimed at analyzing and exploring the covid data with SQL using t
 + Vaccinations started on the 3rd Dec 2020
 
 ## Dashboard Report
-Here is a Power BI dashboard report that I built to further to visualize the insights and trends derived from this analysis.
+Here is a https://www.novypro.com/project/godspeed-5 report that I built to further to visualize the insights and trends derived from this analysis.
